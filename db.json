@@ -1,0 +1,117 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user1@gmail.com",
+      "password": "1234123Gg",
+      "createdAt": 1700313547023
+    },
+    {
+      "id": "75d4",
+      "email": "user1@example.com",
+      "password": "1234123g",
+      "confirmPassword": "1234123g",
+      "createdAt": 1732311186793
+    },
+    {
+      "id": "6c88",
+      "email": "user1@example.com",
+      "password": "1234123g",
+      "confirmPassword": "1234123g",
+      "createdAt": 1732313202848
+    },
+    {
+      "id": "35bf",
+      "email": "gobustgleb@gmail.com",
+      "password": "123123123w",
+      "confirmPassword": "123123123w",
+      "createdAt": 1732313603418
+    },
+    {
+      "id": "3e12",
+      "email": "user1@example.com",
+      "password": "1234123g",
+      "confirmPassword": "1234123g",
+      "createdAt": 1732315006685
+    },
+    {
+      "id": "df03",
+      "email": "glebsosnovskiy@gmail.com",
+      "password": "12312312g",
+      "confirmPassword": "12312312g",
+      "createdAt": 1732315419475
+    },
+    {
+      "id": "02cf",
+      "email": "unioollh@gmail.com",
+      "password": "333222ww",
+      "confirmPassword": "333222ww",
+      "createdAt": 1732316406375
+    },
+    {
+      "id": "7dcc",
+      "email": "a@mail.ru",
+      "password": "123123ww",
+      "confirmPassword": "123123ww",
+      "createdAt": 1732316529010
+    },
+    {
+      "id": "0f65",
+      "email": "unioollh@gmail.com",
+      "password": "11122233w",
+      "confirmPassword": "11122233w",
+      "createdAt": 1732319776580
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "authorId": 1,
+      "title": "Первая заметка",
+      "body": "Тело первой заметки",
+      "createdAt": 1700313547024
+    },
+    {
+      "title": "w",
+      "body": "w",
+      "authorId": "1",
+      "createdAt": 1732310867901,
+      "id": "3e37"
+    },
+    {
+      "title": "ww",
+      "body": "ww",
+      "authorId": "3e12",
+      "createdAt": 1732315014993,
+      "id": "8e7f"
+    },
+    {
+      "title": "222ddd",
+      "body": "wqqцewqeqeq",
+      "authorId": "75d4",
+      "createdAt": 1732315061008,
+      "id": "8ab2"
+    },
+    {
+      "title": "w",
+      "body": "w",
+      "authorId": "7dcc",
+      "createdAt": 1732316548070,
+      "id": "ab44"
+    },
+    {
+      "title": "weee",
+      "body": "weee",
+      "authorId": "75d4",
+      "createdAt": 1732318724663,
+      "id": "54a0"
+    },
+    {
+      "id": "a551",
+      "title": "ddd",
+      "body": "ddd",
+      "authorId": "02cf",
+      "createdAt": 1732319783169
+    }
+  ]
+}
